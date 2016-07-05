@@ -1,0 +1,10 @@
+Identifier		FollowingWords	File			Function 			Description
+	
+0xBE000004		1			somefile.c 		someFunc			runningtime	
+0xBE000006		1			somefile.c 		someFunc			version	
+0xBE000007		1			somefile.c 		someFunc			binarysize
+0xBE000008		2			somefile.c 		someFunc			core1time	
+0xBE000009		2			somefile.c 		someFunc			core2time
+0xBE00000A		2			somefile.c 		someFunc			core3time
+0xBE00000B		2			somefile.c 		someFunc			core4time
+
